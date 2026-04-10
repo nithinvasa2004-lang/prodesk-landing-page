@@ -1,0 +1,3 @@
+- How to create responsive navbar using flexbox
+- Dark mode toggle using JavaScript
+- CSS grid layout for services section
