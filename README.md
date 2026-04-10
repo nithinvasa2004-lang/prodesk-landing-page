@@ -1,2 +1,0 @@
-# prodesk-landing-page
-PLP
